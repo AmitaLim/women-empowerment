@@ -1,0 +1,52 @@
+#header {
+    border-top: 15px solid #5a2784;
+    position: relative;
+    Z-index: 50;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+    background: white;
+    text-align: center;
+  }
+a { text-decoration : none; color : #000; }
+li {
+    display: inline-block;
+    padding: 0px 10px 0px 10px;
+   }
+.search-form .search-submit {
+       display: none;
+   }
+button, html [type="button"], [type="reset"], [type="submit"] {
+       -webkit-appearance: button;
+   }
+ input, textarea, select, fieldset {
+       max-width: 100%;
+       padding: 9px 12px;
+       line-height: 1.42;
+       font-family: 'Raleway', sans-serif;
+       letter-spacing: 1px;
+   }
+_normalize.scss:269
+   button, input {
+       overflow: visible;
+   }
+.img-circle{
+  background-position: center;
+}
+h4 {
+  position: relative;
+  Z-index: 50;
+  border-bottom: 1px solid rgba(0,0,0,0.2);
+  background: white;
+  text-align: center;
+  }
+.btn-twitter {
+  background: #00acee;
+  border-colour: #009ad5;
+}
+.btn-facebook {
+  background: #4868ac;
+  border-color: #314776;
+}
+.btn-pinterest {
+  background: #b62f26;
+  border-color: #b62f26;
+}
