@@ -3,7 +3,7 @@
     position: relative;
     Z-index: 50;
     border-bottom: 1px solid rgba(0,0,0,0.2);
-    background: white;
+    background: pink;
     text-align: center;
   }
 a { text-decoration : none; color : #000; }
@@ -35,7 +35,7 @@ h4 {
   position: relative;
   Z-index: 50;
   border-bottom: 1px solid rgba(0,0,0,0.2);
-  background: white;
+  background: pink;
   text-align: center;
   }
 .btn-twitter {
