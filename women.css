@@ -50,3 +50,16 @@ h4 {
   background: #b62f26;
   border-color: #b62f26;
 }
+
+body {
+background-color:pink;
+}
+h2 {
+color:blue;font-family:arial;
+}
+p {
+line-height:130%;
+}
+h2 {
+text-align:center;
+}
